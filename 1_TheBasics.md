@@ -1,4 +1,4 @@
-# Information Theory of Everything pt1
+# Information Theory of Everything pt1 The Basics
 
 If you wanted to build a universe, how would you do it?
 
@@ -104,10 +104,3 @@ With Energy and Position we can create structures. An observer of the universe w
 
 Fuzzy Wires: Wires have shapes which overlap, interact, form loops
 
-[Incomplete Notes for Information Theory of Everything pt2](Incomplete%20Notes%20for%20Information%20Theory%20of%20Everyth%20ab55d98a3c3d4a0298d48f7706e203e3.md)
-
-[Information Theory of Everything pt3 Life](Information%20Theory%20of%20Everything%20pt3%20Life%207873ac5dbc204c69b17118a832ed06fd.md)
-
-[Information Theory of Everything pt4 Intelligence ](Information%20Theory%20of%20Everything%20pt4%20Intelligence%20efe09709c68e4373bd77d877c0df0f4f.md)
-
-[Information Theory of Everything pt 5 Consciousness](Information%20Theory%20of%20Everything%20pt%205%20Consciousnes%20ab163f41433c465580e0a3c7a0335704.md)

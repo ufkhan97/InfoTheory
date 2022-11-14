@@ -6,7 +6,7 @@ Information is also that which is encoded in words, symbols, computer code, DNA,
 
 Information emerges from energy with position. Any energy with position can be encoding information so long as the code is known to an observer. More generally, any structure which can be distinguished from another can encode information. In the universe, as soon as energy was able to be distinguished from other energy then there was position, relation, and the possibility of information. 
 
-There is no objective information, only subjective. Information is always relative to some observer. This is because uncertainty can only be resolved 
+There is no objective information, only subjective. Information is always relative to some observer. This is because uncertainty can only be resolved.
 
 ---
 
